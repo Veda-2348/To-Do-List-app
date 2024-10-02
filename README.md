@@ -26,7 +26,8 @@ To use the To-Do List application, you can follow these steps:
    streamlit run main.py
    ```
 
-5. A web app will open in your browser, displaying the To-Do List interface.
+5. A web app will open in your browser, displaying the T
+o-Do List interface.
 
 6. To add a new task, type the task description in the "Add a new task" input box and click the "Add" button.
 
@@ -34,12 +35,6 @@ To use the To-Do List application, you can follow these steps:
 
 8. To clear all tasks, click the "Clear all tasks" button.
 
-## Repository Files
-
-- `main.py`: This file contains the main code for the To-Do List application. It uses the Streamlit library for building the user interface and handles task management functions.
-
-- `tasks.csv`: This CSV file is used to store the tasks. Each task is stored as a separate row in the file.
-
-## Streamlit Web App
-
-You can access the web app for the To-Do List application [here](https://deepankarvarma-to-do-list-using-python-app-ha3czj.streamlit.app/). The app provides an interactive interface for managing your tasks.
+![Screenshot 2024-10-02 201404](https://github.com/user-attachments/assets/9fc9399a-adb0-46f6-a42e-9a33eda2dc4f)
+![Screenshot 2024-10-02 201425](https://github.com/user-attachments/assets/4db8d071-927b-463f-ac85-9d579947513b)
+![Screenshot 2024-10-02 201442](https://github.com/user-attachments/assets/4d0e5c1a-2564-423d-b527-c6c169daaefd)
